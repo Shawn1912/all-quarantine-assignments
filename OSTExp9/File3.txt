@@ -1,0 +1,6 @@
+Welcome to file handling
+Python is fun
+Don Bosco
+Shawn Louis
+Roll No 31
+Batch B

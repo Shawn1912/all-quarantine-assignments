@@ -1,0 +1,1 @@
+"C:\Users\shawn\AppData\Local\Programs\Python\Python38-32\python.exe" "C:\Users\shawn\Desktop\Assignments\Done\Selenium\hotstar.py"
